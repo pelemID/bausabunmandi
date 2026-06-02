@@ -10,7 +10,7 @@ on:
     branches:
       # choose your default branch
       - master
-      - main
+      # - main
     paths-ignore:
       - '*.md'
 
