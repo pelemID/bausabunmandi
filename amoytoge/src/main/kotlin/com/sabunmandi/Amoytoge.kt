@@ -11,7 +11,7 @@ import java.net.URI
 // https://bokepina.cc
 // avtub.app
 class Amoytoge : MainAPI() {
-    override var mainUrl = "https://amoytoge.xyz/"
+    override var mainUrl = "https://avtub.app/"
     override var name = "Amoytoge"
     override val hasMainPage = true
     override val supportedTypes = setOf(TvType.Movie)
